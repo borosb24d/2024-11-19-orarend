@@ -3,11 +3,15 @@ table {
 }
 
 td,th {
-    border: 3px solid darkorchid;
+    border: 3px solid rgb(33, 85, 63);
     padding: 0.5em;
     font-size: 24px;
 }
 
 th {
-    background-color: lightseagreen;
+    background-color: rgb(33, 170, 147);
+}
+
+td {
+    background-color: rgb(35, 132, 139);
 }
